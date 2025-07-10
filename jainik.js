@@ -1,10 +1,10 @@
 // streams.js
 
 const STREAMS = {
-    mpd1: {
-        url: "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+    Gt20: {
+        url: "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/6fdpqu1mii/out/v1/325b5647f46a402a80ae6bdc0300ae64/cenc-sd.mpd",
         keys: {
-            "7e9239c1982d984a002df3ed049d0756": "1b8a17598129a3618535c8fb05f103fe"
+            "9e98aa553a5f68eb6fd4f54f7d47db92": "c85e86b214745af6a5ecd342cd0688c7"
         }
     },
     mpd2: {
