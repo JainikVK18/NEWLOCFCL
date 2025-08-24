@@ -2,9 +2,9 @@
 
 const STREAMS = {
     test: {
-        url: "https://jiotvmblive.cdn.jio.com/bpk-tv/Dsports_HD_BTS/output/index.mpd?hdnea=st=1756034305~exp=1756120705~acl=/*~hmac=ef2829ca981b3ca9718c4dbfda99f89078d9d0b4f43ff2a5413aef3a7675b826&xxx=%7Ccookie=hdnea=st=1756034305~exp=1756120705~acl=/*~hmac=ef2829ca981b3ca9718c4dbfda99f89078d9d0b4f43ff2a5413aef3a7675b826",
+        url: "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
         keys: {
-            "14fc31f9d832509c9f7cdd77e622e30b": "a884515f4e1dd77f07aa100ccec13388"
+            "ae26845bd33038a9c0774a0981007294": "63ac662dde310cfb4cc6f9b43b34196d"
         }
     },
     mpd2: {
