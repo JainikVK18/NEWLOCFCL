@@ -7,10 +7,10 @@ const STREAMS = {
             "1779c27b9d077a3ba0c9cc1bb9a94b9f": "cc5cf3b7928fb9e0a1ee6a8b566f0a8e"
         }
     },
-    mpd2: {
-        url: "https://example.com/another-stream/manifest.mpd",
+    wwcp: {
+        url: "https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd",
         keys: {
-            "deadbeefdeadbeefdeadbeefdeadbeef": "1234567890abcdef1234567890abcdef"
+            "a6dfc4f17d70d8d07639659193f03b25": "893eacfabe386144b81733d622a7ad17"
         }
     },
 };
